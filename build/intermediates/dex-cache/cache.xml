@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_bc54b36280fc3111f744982da6c3025dfa794da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_59be2089b21d2ad37d399e398cc7f45350285923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_1daa76d7cc97996a2b6aa64c405095aa721039ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e63aaf9dc352bbb14527502296dbc67de2666b53">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_28262ffedea5a4910a4f8e5c02eaa828505a4339/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_2b64655097eed62ea467c12f256dc4805ab0fc56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_e46aad573fd76dfeea4ab58909e06d090d0d3a4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.facebook.shimmer/shimmer/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37e257a25703e692be3f9aa9c4bf7de620e9271a">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.shimmer-shimmer-0.1.0_f407d02121d7df66b5b0e0f88839048b6ffb8f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_a5932124a28670abd723ae9a01460f2f1b21e7e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d896ec4377d3a75c541c7a7ddaa9dfb464fca97f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a977be247112c71128d1c37eea88f0867e5cf9b">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a64effb0524d899aef5cb45a6bcd51ad8e863339/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_a24fb3c7b47d9bf980abc3ba89a48d56f0fc24be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a56108db70a412eb3025fb7ac3ccfc9d2ab05a07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/khue/Desktop/Schoolwork/Spring2017/Mobile/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_c981c8e53baf1ca32937154ab39c9ef16ced488e/classes.dex" />
+    </item>
+
+</items>

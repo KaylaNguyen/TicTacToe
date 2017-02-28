@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="clear_board">Clear board</string>
+    <string name="next_player">Next is: %1$s</string>
+</resources>
