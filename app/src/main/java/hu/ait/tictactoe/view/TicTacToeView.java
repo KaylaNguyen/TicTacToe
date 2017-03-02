@@ -58,9 +58,6 @@ public class TicTacToeView extends View {
         paintCross.setStrokeWidth(5);
 
         bitmapBg = BitmapFactory.decodeResource(getResources(), R.drawable.sky_background);
-
-//        timeCircle = new Chronometer(getContext());
-//        timeCross = new Chronometer(getContext());
     }
 
     @Override
@@ -78,8 +75,6 @@ public class TicTacToeView extends View {
         canvas.drawRect(0, 0, getWidth(), getHeight(), paintBg);
 
         canvas.drawBitmap(bitmapBg, 0, 0, null);
-
-//        canvas.drawText("6", getWidth()/15, getHeight()/3 - getHeight()/15, paintText);
 
         drawGameBoard(canvas);
 
@@ -145,8 +140,6 @@ public class TicTacToeView extends View {
             if (TicTacToeModel.getInstance().getFieldContent(tX, tY) == TicTacToeModel.EMPTY) {
                 TicTacToeModel.getInstance().makeMove(tX, tY, TicTacToeModel.getInstance().getNextPlayer());
 
-//                startTime(TicTacToeModel.getInstance().getNextPlayer());
-
                 TicTacToeModel.getInstance().changeNextPlayer();
                 invalidate(); // redraw everything on View
 
@@ -200,29 +193,4 @@ public class TicTacToeView extends View {
         time2WhenStopped = 0;
         invalidate();
     }
-
-
-
-//    private Chronometer timeCross;
-//    private Chronometer timeCircle;
-//
-//    public void startTime(short player) {
-//        if (player == TicTacToeModel.CIRCLE) {
-//            timeCircle.setBase(SystemClock.elapsedRealtime());
-//            timeCircle.start();
-//        } else {
-//            timeCross.setBase(SystemClock.elapsedRealtime());
-//            timeCross.start();
-//        }
-//    }
-
-//    public String getTimePlayer1(){
-//        long elapsedMillies = SystemClock.elapsedRealtime() - timeCircle.getBase();
-//        return String.valueOf(elapsedMillies);
-//    }
-//
-//    public String getTimePlayer2(){
-//        long elapsedMillies = SystemClock.elapsedRealtime() - timeCross.getBase();
-//        return String.valueOf(elapsedMillies);
-//    }
 }
